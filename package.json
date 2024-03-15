@@ -1,0 +1,11 @@
+{
+  "name": "circlelabs-website",
+  "version": "0.0.0",
+  "description": "circlelabs website",
+  "main": "index.js",
+  "author": {
+    "name": "Jonathan Heneis",
+    "email": "jona.heneis@gmail.com"
+  },
+  "license": "ISC"
+}
